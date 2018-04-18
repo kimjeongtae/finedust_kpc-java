@@ -1,0 +1,10 @@
+DROP TABLE indoor;
+
+CREATE TABLE indoor (
+	store_name      	VARCHAR2(500),      	
+	X      		VARCHAR2(500),            	
+	Y      		VARCHAR2(500),
+		location      	VARCHAR2(500)           
+);
+
+
